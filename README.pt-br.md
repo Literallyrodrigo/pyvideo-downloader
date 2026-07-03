@@ -170,7 +170,7 @@ O objetivo é oferecer uma experiência limpa, direta e sem configurações desn
 
 ## Download Concluído
 
-![](screenshots/download.png)
+![](screenshots/downloading.png)
 
 ---
 
