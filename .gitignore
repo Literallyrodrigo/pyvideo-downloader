@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Build / dist (PyInstaller)
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# ffmpeg
+ffmpeg/
