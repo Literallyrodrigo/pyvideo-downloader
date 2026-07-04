@@ -66,7 +66,7 @@ class App(QMainWindow):
 
     # FFmpeg embutido
     def ffmpeg_path(self):
-        return os.path.join(self.resource_path("ffmpeg"))
+        return os.path.join(self.resource_path("ffmpeg"), "bin")
 
     def select_folder(self):
         folder = QFileDialog.getExistingDirectory(self, "Escolha a pasta")
